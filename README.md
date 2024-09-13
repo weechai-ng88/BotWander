@@ -59,8 +59,8 @@ Models Used: GPT-3.5 Turbo, GPT-4 Turbo, GPT-4 Omni
 Evaluation Metric: RAGAS Score (Relevancy and Faithfulness)
 Relevancy: How relevant the chatbot responses were to the original query.
 Faithfulness: How accurate the chatbot’s responses were based on the provided data.
-Findings:
 
+Findings:
 GPT-3.5 Turbo: This model provided the best RAGAS score in terms of both relevancy and faithfulness while maintaining excellent real-time response speed. Given these factors, GPT-3.5 Turbo was selected for running the chatbot in this app.
 GPT-4 Turbo and GPT-4 Omni: While these models offered competitive performance and slightly better RAGAS scores for certain queries, their response times were slower, making them less suitable for real-time assistance in this app's use case.
 
