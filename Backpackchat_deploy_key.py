@@ -6,7 +6,7 @@ import openai
 st.set_page_config(page_title="BotWander Chatbot", page_icon=":camping:", layout="wide")
 
 # Load the OpenAI and Google API key from Streamlit secrets (ensure your API key is correctly placed here)
-openai_api_key = st.secrets["openai_api_key"]
+openai.api_key = st.secrets["openai_api_key"]
 google_maps_api_key = st.secrets["google_maps_api_key"]
 
 # Load the CSV file (caching to avoid reloading)
