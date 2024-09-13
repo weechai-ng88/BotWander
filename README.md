@@ -4,7 +4,7 @@
  - [Problem Statement](#Problem-Statement)
  - [App Features & Usage](#App-Features-and-Usage)
  - [Technology Stack](#Technology-Stack)
- - [Machine Learning Evaluation](#Machine-Leanring-Evaluation)
+ - [Machine Learning Evaluation](#Machine-Learning-Evaluation)
  - [Conclusion](#Conclusion)
  
 ## Background
