@@ -46,10 +46,10 @@ Located on the right side of the app, the chatbot assists with questions about t
 
 ## Technology Stack
 
-Frontend: Streamlit
-Backend: Python, OpenAI API, Google API
-Real-Time Itinerary Integration: Embedded Google Doc (iframe)
-AI Chatbot: OpenAI GPT-3.5 Turbo for real-time assistance
+- Frontend: Streamlit
+- Backend: Python, OpenAI API, Google API
+- Real-Time Itinerary Integration: Embedded Google Doc (iframe)
+- AI Chatbot: OpenAI GPT-3.5 Turbo for real-time assistance
 
 ## Machine Learning Evaluation
 
