@@ -10,7 +10,7 @@ openai.api_key = st.secrets["openai_api_key"]
 google_maps_api_key = st.secrets["google_maps_api_key"]
 
 # TEMPORARY: Write the OpenAI API key for debugging purposes
-st.write("OpenAI API Key: ", st.secrets["openai_api_key"])
+# st.write("OpenAI API Key: ", st.secrets["openai_api_key"])
 
 # Load the CSV file (caching to avoid reloading)
 @st.cache_data
