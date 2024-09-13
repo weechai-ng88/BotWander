@@ -13,14 +13,14 @@
 This app is designed to help backpackers efficiently plan their travels. It combines country selection, interest exploration, real-time itinerary viewing, and route optimization, all within an easy-to-navigate interface. The app also includes a chatbot powered by OpenAI GPT-3.5 Turbo, offering personalized assistance for any travel-related questions.
 
 ## Problem Statement
-Backpackers often face numerous challenges while planning their trips, such as selecting the right destinations, identifying activities of interest, and mapping out efficient travel routes. These travelers also need quick, reliable assistance while on the go, something traditional tools may not provide.
+Backpackers often encounter challenges when sourcing travel information from various platforms, making the trip planning process inefficient and time-consuming. Additionally, finding cost-effective accommodation that fits their budget can be difficult. Furthermore, most standard travel itineraries are too generic, failing to cater to individual preferences and interests, which diminishes the overall travel experience.
 
 The Backpacker Travel Planning App tackles these problems by:
 
 - Offering country and interest selection to explore destinations.
 - Providing a real-time view of the itinerary via an embedded Google Doc (using an iframe).
 - Optimizing public transport routes with the Google Maps API.
-- Integrating an AI chatbot that answers questions in real time.
+- Integrating an AI chatbot that answers questions, budget planning and recommendation of accomodation in real time.
 
 ## App Features & Usage
 
